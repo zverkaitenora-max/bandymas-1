@@ -1,21 +1,12 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: Bug report
-labels: ''
-assignees: ''
-
----
-
----
-name: Bug report
-about: Create a report to help us improve
+description: File a bug report.
 title: "[Bug]:"
 labels: bug
 assignees: ''
 type: Bug
 
----
+--- 
 
 **Describe the bug**
 *A clear and concise description of what the bug is.*
