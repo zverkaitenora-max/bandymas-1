@@ -1,14 +1,5 @@
 ---
 name: User story
-about: Adding an user story
-title: "[User story:]"
-labels: ''
-assignees: ''
-
----
-
----
-name: User story
 about: Add a user story to the backlog
 title: "[Story]:"
 labels: user-story
