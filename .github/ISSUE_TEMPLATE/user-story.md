@@ -2,8 +2,8 @@
 name: User story
 about: Add a user story to the backlog
 title: "[User story]:"
-assignees: ''
 labels: User-story
+assignees: ''
 type: Feature
 
 ---

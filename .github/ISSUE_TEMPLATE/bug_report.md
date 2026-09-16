@@ -2,7 +2,7 @@
 name: Bug report
 about: File a bug report.
 title: "[Bug]:"
-labels: bug
+labels: bug, User-story
 assignees: ''
 type: Bug
 
