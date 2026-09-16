@@ -2,8 +2,9 @@
 name: User story
 about: 'Add a user story '
 title: User Story
-labels: ''
+labels: 'User Story'
 assignees: ''
+type: 'Feature'
 
 ---
 
