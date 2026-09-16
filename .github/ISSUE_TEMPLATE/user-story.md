@@ -3,7 +3,7 @@ name: User story
 about: Add a user story to the backlog
 title: "[User story]:"
 assignees: ''
-labels: "user-story"
+labels: user-story
 type: Feature
 
 ---
