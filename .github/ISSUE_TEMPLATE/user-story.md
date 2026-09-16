@@ -1,9 +1,9 @@
 ---
 name: User story
 about: Add a user story to the backlog
-title: "[Story]:"
-labels: user-story
+title: "[User story]:"
 assignees: ''
+labels: "user-story"
 type: Feature
 
 ---
