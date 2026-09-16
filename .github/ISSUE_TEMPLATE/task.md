@@ -2,8 +2,9 @@
 name: Task
 about: Add a task under user story
 title: "[Task]:"
-labels: ''
+labels: Task
 assignees: ''
+type: Task
 
 ---
 
